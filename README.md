@@ -4,7 +4,7 @@ Built with AI assistance. The sales data is simulated (one store, 30 products, 1
 
 ## What is in this folder
 - `data/sales_raw.csv`: simulated raw sales. This is the only input.
-- `inventory_forecast_simple.ipynb`: the full analysis. Cleaning, EDA, six forecasting methods, reorder simulation and results.
+- `inventory_forecast_sample.ipynb`: the full analysis. Cleaning, EDA, six forecasting methods, reorder simulation and results.
 - `outputs/business_report.docx`: the business report (problem, data, results, products at risk, limitations, next steps).
 - `outputs/`: forecasts, reorder table, accuracy and cost tables, and charts. Written by the notebook when it runs.
 - `data/sales_clean.csv`: cleaned data. Written by the notebook when it runs.
