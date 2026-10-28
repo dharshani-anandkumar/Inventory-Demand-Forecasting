@@ -1,0 +1,9 @@
+policy,units_short,units_extra,share_of_cycles_short,total_cost_inr
+Store's recorded orders,13223,2843,0.78,1148196
+Last week's sales,1279,40317,0.11,1790231
+4-week average,396,28651,0.07,1227291
+Ridge regression,1906,24580,0.18,1167132
+Random forest,1135,23869,0.12,1112685
+Gradient boosting,1509,24431,0.15,1160081
+LightGBM,1388,24254,0.15,1137854
+XGBoost,1604,23679,0.14,1127743
