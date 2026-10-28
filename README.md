@@ -4,7 +4,7 @@ Built with AI assistance. The sales data is simulated (one store, 30 products, 1
 
 ## What is in this folder
 - `data/sales_raw.csv`: simulated raw sales. This is the only input.
-- `inventory_forecast_sample.ipynb`: the full analysis. Cleaning, EDA, six forecasting methods, reorder simulation and results.
+- `inventory_forecast_model.ipynb`: the full analysis. Cleaning, EDA, six forecasting methods, reorder simulation and results.
 - `outputs/business_report.docx`: the business report (problem, data, results, products at risk, limitations, next steps).
 - `outputs/`: forecasts, reorder table, accuracy and cost tables, and charts. Written by the notebook when it runs.
 - `data/sales_clean.csv`: cleaned data. Written by the notebook when it runs.
@@ -13,7 +13,7 @@ Built with AI assistance. The sales data is simulated (one store, 30 products, 1
 ## How to run
 1. `pip install -r requirements.txt`
 2. Keep `data/sales_raw.csv` in the `data/` folder.
-3. Open `inventory_forecast_sample.ipynb` and run all cells top to bottom.
+3. Open `inventory_forecast_model.ipynb` and run all cells top to bottom.
 
 ## Notes
 - Demand in the reorder simulation is recorded sales. Stockouts hide some demand, so those results favour low stock levels.
