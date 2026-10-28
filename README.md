@@ -13,7 +13,7 @@ Built with AI assistance. The sales data is simulated (one store, 30 products, 1
 ## How to run
 1. `pip install -r requirements.txt`
 2. Keep `data/sales_raw.csv` in the `data/` folder.
-3. Open `inventory_forecast_simple.ipynb` and run all cells top to bottom.
+3. Open `inventory_forecast_sample.ipynb` and run all cells top to bottom.
 
 ## Notes
 - Demand in the reorder simulation is recorded sales. Stockouts hide some demand, so those results favour low stock levels.
